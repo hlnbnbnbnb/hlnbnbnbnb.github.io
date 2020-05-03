@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hlnbnbnbnb.github.io</id>
     <title>hlnb！</title>
-    <updated>2020-05-03T01:54:09.619Z</updated>
+    <updated>2020-05-03T02:28:18.100Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://hlnbnbnbnb.github.io"/>
     <link rel="self" href="https://hlnbnbnbnb.github.io/atom.xml"/>
@@ -10,6 +10,26 @@
     <logo>https://hlnbnbnbnb.github.io/images/avatar.png</logo>
     <icon>https://hlnbnbnbnb.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, hlnb！</rights>
+    <entry>
+        <title type="html"><![CDATA[像我一样搭建个人网站]]></title>
+        <id>https://hlnbnbnbnb.github.io/post/xiang-wo-yi-yang-da-jian-ge-ren-wang-zhan/</id>
+        <link href="https://hlnbnbnbnb.github.io/post/xiang-wo-yi-yang-da-jian-ge-ren-wang-zhan/">
+        </link>
+        <updated>2020-05-03T02:25:51.000Z</updated>
+        <content type="html"><![CDATA[<p>[size=4]下面是教程[/size]<br>
+[size=3]1建立github账号[/size]<br>
+[size=3]2建立一个仓库，名字是 你的用户名.github.io 其他设置不要动[/size]<br>
+[size=3]3点击settings[/size]<br>
+<img src="https://hlnbnbnbnb.github.io/post-images/1588472868926.png" alt="" loading="lazy"><br>
+[size=3]4点击之后点击最下面的按钮，点进去之后再点最下面的按钮[/size]<br>
+[size=3]5然后点击这个[/size]<br>
+<img src="https://hlnbnbnbnb.github.io/post-images/1588472884577.png" alt="" loading="lazy"><br>
+[size=3]6进去随便写框框里的东西，把所有的东西都钩上就好[/size]<br>
+[size=3]7下载Gridea，之后像我一样写[/size]<br>
+<img src="https://hlnbnbnbnb.github.io/post-images/1588472891010.png" alt="" loading="lazy"><br>
+[size=3]之后你们就可以自己做网站辣[/size]</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我的各种网站主页]]></title>
         <id>https://hlnbnbnbnb.github.io/post/wo-de-ge-chong-wang-zhan-zhu-ye/</id>
