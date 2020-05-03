@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hlnbnbnbnb.github.io</id>
     <title>hlnb！</title>
-    <updated>2020-05-03T05:52:25.469Z</updated>
+    <updated>2020-05-03T09:12:05.394Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://hlnbnbnbnb.github.io"/>
     <link rel="self" href="https://hlnbnbnbnb.github.io/atom.xml"/>
@@ -10,6 +10,24 @@
     <logo>https://hlnbnbnbnb.github.io/images/avatar.png</logo>
     <icon>https://hlnbnbnbnb.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, hlnb！</rights>
+    <entry>
+        <title type="html"><![CDATA[呵呵]]></title>
+        <id>https://hlnbnbnbnb.github.io/post/he-he/</id>
+        <link href="https://hlnbnbnbnb.github.io/post/he-he/">
+        </link>
+        <updated>2020-05-03T09:08:51.000Z</updated>
+        <content type="html"><![CDATA[<!-- more -->
+<p>好多实况主玩整合包都不标明出处（包括知名的实况主）<br>
+mc圈子的风气好像就是这样。<br>
+地图，材质，数据包，红石设计许多实况主完全不标明作者<br>
+或许是怕粉丝自己去玩不看他们的视屏了？还是单纯版权意识不高？<br>
+我还发现油管上的某些实况主视屏中的音乐，字体都花钱买了版权。<br>
+却不肯标明地图，材质，数据包，红石设计的作者<br>
+欺软怕硬？付费的都肯花钱买。<br>
+免费下载的地图，材质，数据包，红石设计都不肯随手标明作者<br>
+送他们一句：呵呵</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[个人网站怎么创建评论区]]></title>
         <id>https://hlnbnbnbnb.github.io/post/ge-ren-wang-zhan-zen-me-chuang-jian-ping-lun-qu/</id>
