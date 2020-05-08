@@ -5,7 +5,7 @@
     
 <meta charset="utf-8" >
 
-<title>梦 | hlnb！</title>
+<title>呵呵 | hlnb！</title>
 <meta name="description" content="hl的个人网站">
 
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
@@ -16,6 +16,12 @@
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.10.0/katex.min.css">
 <link rel="stylesheet" href="https://hlnbnbnbnb.github.io/styles/main.css">
 
+
+  
+    <link rel="stylesheet" href="https://unpkg.com/gitalk/dist/gitalk.css" />
+  
+
+  
 
 
 <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
@@ -66,48 +72,56 @@
 
 
       <div class="content-container">
+        <div class="post-detail">
+          
+          <h2 class="post-title">呵呵</h2>
+          <div class="post-info post-detail-info">
+            <span><i class="icon-calendar-outline"></i> 2020-05-03</span>
+            
+              <span>
+                <i class="icon-pricetags-outline"></i>
+                
+                  <a href="https://hlnbnbnbnb.github.io/tag/eEPLQH6Lo/">
+                    mc
+                    
+                  </a>
+                
+              </span>
+            
+          </div>
+          <div class="post-content">
+            <!-- more -->
+<p>好多实况主玩整合包都不标明出处（包括知名的实况主）<br>
+mc圈子的风气好像就是这样。<br>
+地图，材质，数据包，红石设计许多实况主完全不标明作者<br>
+或许是怕粉丝自己去玩不看他们的视屏了？还是单纯版权意识不高？<br>
+我还发现油管上的某些实况主视屏中的音乐，字体都花钱买了版权。<br>
+却不肯标明地图，材质，数据包，红石设计的作者<br>
+欺软怕硬？付费的都肯花钱买。<br>
+免费下载的地图，材质，数据包，红石设计都不肯随手标明作者<br>
+送他们一句：呵呵</p>
 
-        <div class="current-tag-container">
-          <h2 class="title">
-            <i class="icon icon-pricetags-outline"></i> 梦
-          </h2> 
+          </div>
         </div>
 
         
-<section class="post-item">
-    <div class="content">
-      <a href="https://hlnbnbnbnb.github.io/wo-ju-ran-yi-shi-dao-wo-zai-zuo-meng/">
-        <h2 class="post-title">我居然意识到我在做梦</h2>
-      </a>
-      <div class="post-abstract">
-        
+          <div class="next-post">
+            <a class="purple-link" href="https://hlnbnbnbnb.github.io/ge-ren-wang-zhan-zen-me-chuang-jian-ping-lun-qu/">
+              <h3 class="post-title">
+                下一篇：个人网站怎么创建评论区
+              </h3>
+            </a>
+          </div>
+          
       </div>
-      <div class="post-info">
-        <span><i class="icon icon-calendar-outline"></i> 2020-05-04</span>
+
+      
         
-          <span>
-            <i class="icon icon-pricetags-outline"></i>
-            
-              <a href="https://hlnbnbnbnb.github.io/tag/evN8Gbuel/">
-                梦
-                
-              </a>
-            
-          </span>
+          <div id="gitalk-container"></div>
         
-      </div>
-    </div>
-    
-  </section>
 
-
-<div class="pagination-container">
-  
-  
-</div>
-
-
-      </div>
+        
+      
 
       <div class="site-footer">
   <div class="slogan">hl的个人网站</div>
@@ -142,6 +156,29 @@ var app = new Vue({
 })
 
 </script>
+
+
+
+  
+    <script src="https://unpkg.com/gitalk/dist/gitalk.min.js"></script>
+    <script>
+
+      var gitalk = new Gitalk({
+        clientID: 'd53f0b84b8d036f73721',
+        clientSecret: '260bd0d80d561f60fdba51509ae2c10b35a2ed45',
+        repo: 'hlnbnbnbnb.github.io',
+        owner: 'hlnbnbnbnb',
+        admin: ['hlnbnbnbnb'],
+        id: (location.pathname).substring(0, 49),      // Ensure uniqueness and length less than 50
+        distractionFreeMode: false  // Facebook-like distraction free mode
+      })
+
+      gitalk.render('gitalk-container')
+
+    </script>
+  
+
+  
 
 
 
