@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hlnbnbnbnb.github.io</id>
     <title>hlnb！</title>
-    <updated>2020-05-09T23:21:27.241Z</updated>
+    <updated>2020-05-19T07:28:19.806Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://hlnbnbnbnb.github.io"/>
     <link rel="self" href="https://hlnbnbnbnb.github.io/atom.xml"/>
@@ -10,6 +10,24 @@
     <logo>https://hlnbnbnbnb.github.io/images/avatar.png</logo>
     <icon>https://hlnbnbnbnb.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, hlnb！</rights>
+    <entry>
+        <title type="html"><![CDATA[今天发现鹅真的好可爱！]]></title>
+        <id>https://hlnbnbnbnb.github.io/jin-tian-fa-xian-e-zhen-de-hao-ke-ai/</id>
+        <link href="https://hlnbnbnbnb.github.io/jin-tian-fa-xian-e-zhen-de-hao-ke-ai/">
+        </link>
+        <updated>2020-05-19T07:21:37.000Z</updated>
+        <content type="html"><![CDATA[<p>图<br>
+<img src="https://hlnbnbnbnb.github.io/post-images/1589873010969.jpg" alt="" loading="lazy"><br>
+好尅爱！<br>
+还有桌宠！<br>
+下载链接：https://samperson.itch.io/desktop-goose</p>
+<p>作者：取締<br>
+链接：https://www.zhihu.com/question/371736632/answer/1038866233<br>
+来源：知乎<br>
+著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。</p>
+<p>长按esc退出如果要修改是不是有声音的话，打开你安装下来的DesktopGoose v0.3这个文件夹，里面有一个config.ini，这个文件就是修改配置的，用txt打开它，里面有一个SilenceSounds=false，把后面的false改成true就可以变成无声了，也就是所谓的静音同样是config.ini文件中，enablemods的是否使用对应的是Assets文件夹中的Mods文件夹，它里面的那个rainbowstrobe是彩虹闪光灯，我猜是不是有爆闪灯的效果【我还没试过】【这是后话：我之后把它打开了，原来这鹅变成了霓虹灯鹅】，SilenceSounds我已经说过了，Task_CanAttackMouse这个是设置是否让鸭子拖动你的鼠标，AttackRandomly这个我猜是设置鹅能否打开你的应用【因为我自己桌面文件多就没试过】【这还是后话：这时我已经尝试了，这个开启的话，鹅会无缘无故叼走你的鼠标，不打开之前，只是你关闭它拖出来的窗口才会来叼你的鼠标】，UseCustomColors这个是设置鹅什么颜色是否开启的，GooseDefaultWhite这个应该就是鹅的身体颜色，GooseDefaultOrange这个就是鸭子脚丫的颜色，GooseDefaultOutline这个是它拉出来的标题或者弹窗的颜色，这三个的前提都是UseCustomColors这项的值为true，打开才能使用，最后下面的应该就是设置鹅的调皮时间了。。多久调皮一次哈哈哈哈关于你说想你的鹅讲一些不同话，可以到Assets文件夹里面扎到text文件夹创建与里面文件相同的txt文件就可以了，想要很有趣的图片的话，在/Assets/Images/Memes中放入你想的图片就可以啦</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[1.12基础整合]]></title>
         <id>https://hlnbnbnbnb.github.io/112-ji-chu-zheng-he/</id>
