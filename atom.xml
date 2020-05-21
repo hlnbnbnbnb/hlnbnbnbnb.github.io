@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hlnbnbnbnb.github.io</id>
     <title>hlnb！</title>
-    <updated>2020-05-21T06:36:56.317Z</updated>
+    <updated>2020-05-21T07:06:18.902Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://hlnbnbnbnb.github.io"/>
     <link rel="self" href="https://hlnbnbnbnb.github.io/atom.xml"/>
@@ -10,6 +10,15 @@
     <logo>https://hlnbnbnbnb.github.io/images/avatar.png</logo>
     <icon>https://hlnbnbnbnb.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, hlnb！</rights>
+    <entry>
+        <title type="html"><![CDATA[有问题请发我邮箱1627811302@qq.com，评论功能有时候会抽风]]></title>
+        <id>https://hlnbnbnbnb.github.io/you-wen-ti-qing-fa-wo-you-xiang-1627811302qqcomping-lun-gong-neng-you-shi-hou-hui-chou-feng/</id>
+        <link href="https://hlnbnbnbnb.github.io/you-wen-ti-qing-fa-wo-you-xiang-1627811302qqcomping-lun-gong-neng-you-shi-hou-hui-chou-feng/">
+        </link>
+        <updated>2020-05-21T07:05:54.000Z</updated>
+        <content type="html"><![CDATA[<p><strong>有问题请发我邮箱1627811302@qq.com，评论功能有时候会抽风</strong></p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[哈？你还不会自己做鼠标指针？]]></title>
         <id>https://hlnbnbnbnb.github.io/ha-ni-huan-bu-hui-zi-ji-zuo-shu-biao-zhi-zhen/</id>
@@ -172,16 +181,6 @@ https://tieba.baidu.com/p/6597525451<br>
 <img src="https://hlnbnbnbnb.github.io/post-images/1588472891010.png" alt="" loading="lazy"><br>
 之后你们就可以自己做网站辣<br>
 <strong>有问题请发我邮箱1627811302@qq.com，评论功能有时候会抽风</strong></p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[hi]]></title>
-        <id>https://hlnbnbnbnb.github.io/hi/</id>
-        <link href="https://hlnbnbnbnb.github.io/hi/">
-        </link>
-        <updated>2020-05-03T01:13:01.000Z</updated>
-        <content type="html"><![CDATA[<p>你好呀awa<br>
-<img src="https://hlnbnbnbnb.github.io/post-images/1588470643621.jpg" alt="" loading="lazy"></p>
 ]]></content>
     </entry>
 </feed>
