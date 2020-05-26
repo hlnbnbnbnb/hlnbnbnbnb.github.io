@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hlnbnbnbnb.github.io</id>
     <title>hlnb！</title>
-    <updated>2020-05-21T07:06:18.902Z</updated>
+    <updated>2020-05-26T02:23:33.012Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://hlnbnbnbnb.github.io"/>
     <link rel="self" href="https://hlnbnbnbnb.github.io/atom.xml"/>
@@ -10,6 +10,26 @@
     <logo>https://hlnbnbnbnb.github.io/images/avatar.png</logo>
     <icon>https://hlnbnbnbnb.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, hlnb！</rights>
+    <entry>
+        <title type="html"><![CDATA[蛤？你还不会自定义启动器？]]></title>
+        <id>https://hlnbnbnbnb.github.io/ha-ni-huan-bu-hui-zi-ding-yi-qi-dong-qi/</id>
+        <link href="https://hlnbnbnbnb.github.io/ha-ni-huan-bu-hui-zi-ding-yi-qi-dong-qi/">
+        </link>
+        <updated>2020-05-26T02:04:51.000Z</updated>
+        <content type="html"><![CDATA[<p>这是我杂七杂八教程第三篇，<strong>适用于没有加密的任何软件</strong></p>
+<p>1.一个压缩软件<br>
+我只试过7 zip其他的自己试</p>
+<p>2.一个启动器<br>
+没什么好说的...没有加密就好</p>
+<p>3.找到assets文件，<strong>其他的一定不要修改</strong>（我以hmcl为例<br>
+里面的文件，分别是img文件和lang文件还有你看不懂的文件<br>
+img文件里就是图片之类的，自己替换就好，毕竟很少。<br>
+lang文件就好玩了，找到带有zh CN的文件就可以替换启动器的文本了（<strong>只能替换=后面的！！！</strong></p>
+<p>4.技术总结<br>
+不要改里面的文件名，想替换就把替换的文件名命名成想替换的然后覆盖<br>
+本人能力有限，只能写这么多，有大佬补充感激不尽</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[有问题请发我邮箱1627811302@qq.com，评论功能有时候会抽风]]></title>
         <id>https://hlnbnbnbnb.github.io/you-wen-ti-qing-fa-wo-you-xiang-1627811302qqcomping-lun-gong-neng-you-shi-hou-hui-chou-feng/</id>
@@ -159,27 +179,6 @@ mc圈子的风气好像就是这样。<br>
 还没完，如果你出错的话请看贴吧大佬<br>
 https://tieba.baidu.com/p/6597525451<br>
 （有时候评论功能会抽风，过一会就好了<br>
-<strong>有问题请发我邮箱1627811302@qq.com，评论功能有时候会抽风</strong></p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[像我一样搭建个人网站]]></title>
-        <id>https://hlnbnbnbnb.github.io/xiang-wo-yi-yang-da-jian-ge-ren-wang-zhan/</id>
-        <link href="https://hlnbnbnbnb.github.io/xiang-wo-yi-yang-da-jian-ge-ren-wang-zhan/">
-        </link>
-        <updated>2020-05-03T02:25:51.000Z</updated>
-        <content type="html"><![CDATA[<p>下面是教程<br>
-1建立github账号<br>
-2建立一个仓库，名字是 你的用户名.github.io 其他设置不要动<br>
-3点击settings<br>
-<img src="https://hlnbnbnbnb.github.io/post-images/1588472868926.png" alt="" loading="lazy"><br>
-4点击之后点击最下面的按钮，点进去之后再点最下面的按钮<br>
-5然后点击这个<br>
-<img src="https://hlnbnbnbnb.github.io/post-images/1588472884577.png" alt="" loading="lazy"><br>
-6进去随便写框框里的东西，把所有的东西都钩上就好<br>
-7下载Gridea，之后像我一样写<br>
-<img src="https://hlnbnbnbnb.github.io/post-images/1588472891010.png" alt="" loading="lazy"><br>
-之后你们就可以自己做网站辣<br>
 <strong>有问题请发我邮箱1627811302@qq.com，评论功能有时候会抽风</strong></p>
 ]]></content>
     </entry>

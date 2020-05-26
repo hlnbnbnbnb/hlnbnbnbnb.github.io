@@ -5,7 +5,7 @@
     
 <meta charset="utf-8" >
 
-<title>梦 | hlnb！</title>
+<title>蛤？你还不会自定义启动器？ | hlnb！</title>
 <meta name="description" content="hl的个人网站">
 
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
@@ -16,6 +16,12 @@
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.10.0/katex.min.css">
 <link rel="stylesheet" href="https://hlnbnbnbnb.github.io/styles/main.css">
 
+
+  
+    <link rel="stylesheet" href="https://unpkg.com/gitalk/dist/gitalk.css" />
+  
+
+  
 
 
 <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
@@ -66,48 +72,48 @@
 
 
       <div class="content-container">
+        <div class="post-detail">
+          
+          <h2 class="post-title">蛤？你还不会自定义启动器？</h2>
+          <div class="post-info post-detail-info">
+            <span><i class="icon-calendar-outline"></i> 2020-05-26</span>
+            
+          </div>
+          <div class="post-content">
+            <p>这是我杂七杂八教程第三篇，<strong>适用于没有加密的任何软件</strong></p>
+<p>1.一个压缩软件<br>
+我只试过7 zip其他的自己试</p>
+<p>2.一个启动器<br>
+没什么好说的...没有加密就好</p>
+<p>3.找到assets文件，<strong>其他的一定不要修改</strong>（我以hmcl为例<br>
+里面的文件，分别是img文件和lang文件还有你看不懂的文件<br>
+img文件里就是图片之类的，自己替换就好，毕竟很少。<br>
+lang文件就好玩了，找到带有zh CN的文件就可以替换启动器的文本了（<strong>只能替换=后面的！！！</strong></p>
+<p>4.技术总结<br>
+不要改里面的文件名，想替换就把替换的文件名命名成想替换的然后覆盖<br>
+本人能力有限，只能写这么多，有大佬补充感激不尽</p>
 
-        <div class="current-tag-container">
-          <h2 class="title">
-            <i class="icon icon-pricetags-outline"></i> 梦
-          </h2> 
+          </div>
         </div>
 
         
-<section class="post-item">
-    <div class="content">
-      <a href="https://hlnbnbnbnb.github.io/wo-ju-ran-yi-shi-dao-wo-zai-zuo-meng/">
-        <h2 class="post-title">我居然意识到我在做梦</h2>
-      </a>
-      <div class="post-abstract">
-        
+          <div class="next-post">
+            <a class="purple-link" href="https://hlnbnbnbnb.github.io/you-wen-ti-qing-fa-wo-you-xiang-1627811302qqcomping-lun-gong-neng-you-shi-hou-hui-chou-feng/">
+              <h3 class="post-title">
+                下一篇：有问题请发我邮箱1627811302@qq.com，评论功能有时候会抽风
+              </h3>
+            </a>
+          </div>
+          
       </div>
-      <div class="post-info">
-        <span><i class="icon icon-calendar-outline"></i> 2020-05-04</span>
+
+      
         
-          <span>
-            <i class="icon icon-pricetags-outline"></i>
-            
-              <a href="https://hlnbnbnbnb.github.io/tag/evN8Gbuel/">
-                梦
-                
-              </a>
-            
-          </span>
+          <div id="gitalk-container"></div>
         
-      </div>
-    </div>
-    
-  </section>
 
-
-<div class="pagination-container">
-  
-  
-</div>
-
-
-      </div>
+        
+      
 
       <div class="site-footer">
   <div class="slogan">hl的个人网站</div>
@@ -141,6 +147,29 @@ var app = new Vue({
 })
 
 </script>
+
+
+
+  
+    <script src="https://unpkg.com/gitalk/dist/gitalk.min.js"></script>
+    <script>
+
+      var gitalk = new Gitalk({
+        clientID: 'd53f0b84b8d036f73721',
+        clientSecret: '260bd0d80d561f60fdba51509ae2c10b35a2ed45',
+        repo: 'hlnbnbnbnb.github.io',
+        owner: 'hlnbnbnbnb',
+        admin: ['hlnbnbnbnb'],
+        id: (location.pathname).substring(0, 49),      // Ensure uniqueness and length less than 50
+        distractionFreeMode: false  // Facebook-like distraction free mode
+      })
+
+      gitalk.render('gitalk-container')
+
+    </script>
+  
+
+  
 
 
 
