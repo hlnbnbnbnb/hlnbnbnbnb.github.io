@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hlnbnbnbnb.github.io</id>
     <title>hlnb！</title>
-    <updated>2020-05-26T02:23:33.012Z</updated>
+    <updated>2020-06-01T11:27:22.734Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://hlnbnbnbnb.github.io"/>
     <link rel="self" href="https://hlnbnbnbnb.github.io/atom.xml"/>
@@ -10,6 +10,23 @@
     <logo>https://hlnbnbnbnb.github.io/images/avatar.png</logo>
     <icon>https://hlnbnbnbnb.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, hlnb！</rights>
+    <entry>
+        <title type="html"><![CDATA[人生导师：学会这个，你也可以上水榜！网友：不可思议！]]></title>
+        <id>https://hlnbnbnbnb.github.io/ren-sheng-dao-shi-xue-hui-zhe-ge-ni-ye-ke-yi-shang-shui-bang-wang-you-bu-ke-si-yi/</id>
+        <link href="https://hlnbnbnbnb.github.io/ren-sheng-dao-shi-xue-hui-zhe-ge-ni-ye-ke-yi-shang-shui-bang-wang-you-bu-ke-si-yi/">
+        </link>
+        <updated>2020-06-01T11:26:37.000Z</updated>
+        <content type="html"><![CDATA[<p>废话不多说，直接上图<br>
+<img src="https://hlnbnbnbnb.github.io/post-images/1591010826540.png" alt="" loading="lazy"><br>
+这其实是教你更改网页的图片与文字</p>
+<p>右键要修改的图片/文字<br>
+然后就进入到了全都是英文的地方<br>
+右键蓝色处，点击Edit as HTML<br>
+文字直接替换<br>
+图片替换链接<br>
+你学废了吗？</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[蛤？你还不会自定义启动器？]]></title>
         <id>https://hlnbnbnbnb.github.io/ha-ni-huan-bu-hui-zi-ding-yi-qi-dong-qi/</id>
@@ -165,21 +182,6 @@ mc圈子的风气好像就是这样。<br>
 欺软怕硬？付费的都肯花钱买。<br>
 免费下载的地图，材质，数据包，红石设计都不肯随手标明作者<br>
 送他们一句：呵呵</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[个人网站怎么创建评论区]]></title>
-        <id>https://hlnbnbnbnb.github.io/ge-ren-wang-zhan-zen-me-chuang-jian-ping-lun-qu/</id>
-        <link href="https://hlnbnbnbnb.github.io/ge-ren-wang-zhan-zen-me-chuang-jian-ping-lun-qu/">
-        </link>
-        <updated>2020-05-03T05:46:52.000Z</updated>
-        <content type="html"><![CDATA[<p>去这里注册https://github.com/settings/applications/new<br>
-注册好之后就填上去<br>
-<img src="https://hlnbnbnbnb.github.io/post-images/1588485058414.png" alt="" loading="lazy"><br>
-还没完，如果你出错的话请看贴吧大佬<br>
-https://tieba.baidu.com/p/6597525451<br>
-（有时候评论功能会抽风，过一会就好了<br>
-<strong>有问题请发我邮箱1627811302@qq.com，评论功能有时候会抽风</strong></p>
 ]]></content>
     </entry>
 </feed>
