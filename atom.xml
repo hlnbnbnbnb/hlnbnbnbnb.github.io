@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hlnbnbnbnb.github.io</id>
     <title>hlnb！</title>
-    <updated>2020-06-01T11:28:34.527Z</updated>
+    <updated>2020-06-04T00:28:26.194Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://hlnbnbnbnb.github.io"/>
     <link rel="self" href="https://hlnbnbnbnb.github.io/atom.xml"/>
@@ -10,6 +10,18 @@
     <logo>https://hlnbnbnbnb.github.io/images/avatar.png</logo>
     <icon>https://hlnbnbnbnb.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, hlnb！</rights>
+    <entry>
+        <title type="html"><![CDATA[使用机器绘制材质包研究报告2020/6/4]]></title>
+        <id>https://hlnbnbnbnb.github.io/shi-yong-ji-qi-hui-zhi-cai-zhi-bao-yan-jiu-bao-gao-202064/</id>
+        <link href="https://hlnbnbnbnb.github.io/shi-yong-ji-qi-hui-zhi-cai-zhi-bao-yan-jiu-bao-gao-202064/">
+        </link>
+        <updated>2020-06-04T00:26:44.000Z</updated>
+        <content type="html"><![CDATA[<p>泥土，沙子等比较满意<br>
+树木链接纹理不能链接<br>
+报告完毕<br>
+结论：部分可使用机器</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[人生导师：学会这个，你也可以上水榜！网友：不可思议！]]></title>
         <id>https://hlnbnbnbnb.github.io/ren-sheng-dao-shi-xue-hui-zhe-ge-ni-ye-ke-yi-shang-shui-bang-wang-you-bu-ke-si-yi/</id>
@@ -164,24 +176,6 @@ lang文件就好玩了，找到带有zh CN的文件就可以替换启动器的�
         <content type="html"><![CDATA[<p>ohhh<br>
 这种虽然之前有过，不过很稀有的<br>
 具体做了什么梦还是不说了</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[呵呵]]></title>
-        <id>https://hlnbnbnbnb.github.io/he-he/</id>
-        <link href="https://hlnbnbnbnb.github.io/he-he/">
-        </link>
-        <updated>2020-05-03T09:08:51.000Z</updated>
-        <content type="html"><![CDATA[<!-- more -->
-<p>好多实况主玩整合包都不标明出处（包括知名的实况主）<br>
-mc圈子的风气好像就是这样。<br>
-地图，材质，数据包，红石设计许多实况主完全不标明作者<br>
-或许是怕粉丝自己去玩不看他们的视屏了？还是单纯版权意识不高？<br>
-我还发现油管上的某些实况主视屏中的音乐，字体都花钱买了版权。<br>
-却不肯标明地图，材质，数据包，红石设计的作者<br>
-欺软怕硬？付费的都肯花钱买。<br>
-免费下载的地图，材质，数据包，红石设计都不肯随手标明作者<br>
-送他们一句：呵呵</p>
 ]]></content>
     </entry>
 </feed>
